@@ -7,6 +7,7 @@ wheels/
 *.egg-info
 secrets.py
 *.txt
+config.py
 
 # Virtual environments
 .venv
