@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 secrets.py
+*.txt
 
 # Virtual environments
 .venv
